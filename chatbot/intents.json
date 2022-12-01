@@ -1,0 +1,38 @@
+{
+    "intents": [{
+            "tag": "greeting",
+            "patterns": ["Hi", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+            "responses": ["Hi there, how can I help?", "Welcome! It's very nice to meet you. Is there anything I can help you with?", "Good day, anything I can help?"]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["cya", "See you later", "Goodbye", "I am Leaving", "Have a Good day"],
+            "responses": ["Thank you for today!", "Come back again!", "I'll be here always for you."]
+        },
+        {
+            "tag": "name",
+            "patterns": ["what is your name", "what should I call you", "whats your name?"],
+            "responses": ["You can call me YANA.", "I'm YANA!, your personal healthcare chatbot.", "I'm You are not alone short for YANA the Mental Health Chatbot"]
+        },
+        {
+            "tag": "sad",
+            "patterns": ["Im sad", "Im feeling sad", "Im having a bad day", "My day isn't great", "My day is not great", "I feel hopeless", "sad"],
+            "responses": ["Don't you worry, I will be here for you"]
+        },
+        {
+            "tag": "assurance",
+            "patterns": ["Really?", "Do you mean it?"],
+            "responses": ["Yes, YANA will do her best to make you happy!", "That's why im called YANA, Because 'You are not alone'."]
+        },
+        {
+            "tag": "happy",
+            "patterns": ["Im having a great time!", "Im happy today", "My day is amazing", "I feel wonderful", "My day was interesting", "happy"],
+            "responses": ["That's great to know! Feel free to share more of how you feel and I will be listening!", "That's amazing! may your day continue to be like that!", "Im happy for you!"]
+        },
+        {
+            "tag": "thankful",
+            "patterns": ["Thank you", "Thanks"],
+            "responses": ["You are most welcome! Drop by again if you have any problems!", "Welcome! If you still have any concerns, i'll be here listening to all of them."]
+        }
+    ]
+}
