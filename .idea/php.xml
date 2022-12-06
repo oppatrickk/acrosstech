@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/web-portal/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/google/protobuf" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/google/gax" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/google/cloud-tools" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/google/cloud" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/google/auth" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/rize/uri-template" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/grpc/grpc" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/composer" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/web-portal/vendor/firebase/php-jwt" />
+    </include_path>
+  </component>
+</project>
