@@ -24,16 +24,38 @@
             "@context": "http://schema.org",
             "@type": "Organization",
             "name": "Site1",
-            "logo": "assets/images/Picture1-removebg-preview.png"
+            "logo": "../assets/images/Picture1-removebg-preview.png"
         }
     </script>
 </head>
 
 <body id="page-top">
+<!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm bg-white" id="mainNav">
+        <div class="container px-5">
+            <a class="navbar-brand fw-bold" href="selection.html"><img src="../assets/img/tri_logo.png" height="35" width="35"> BU Trident</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                Menu
+                <i class="bi-list"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto me-4 my-3 my-lg-0">
+
+                </ul>
+                <div class="d-grid">
+                    <a href="../index.html">
+                        <button class="btn btn-outline-primary rounded-pill px-3 mb-2 mb-lg-0" type="button" id="signOut">
+                            Logout
+                        </button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </nav>
     <!-- Navigation-->
-    <a class="menu-toggle rounded" href="#"><i class="fas fa-bars"></i></a>
+    <a class="menu-toggle rounded mt-5" href="#"><i class="fas fa-bars"></i></a>
     <nav id="sidebar-wrapper" class="img" style="background-image: url(../assets/img/960x0.jpg);">
-        <ul class="sidebar-nav">
+        <ul class="sidebar-nav mt-5">
             <li class="sidebar-brand"><a href="#page-top">ACROSSTECH</a></li>
             <li class="sidebar-nav-item"><a href="#page-top">Home</a></li>
             <li class="sidebar-nav-item"><a href="#aboutus">About Us</a></li>
@@ -42,6 +64,9 @@
             <li class="sidebar-nav-item"><a href="#contactus">Contact Us</a></li>
         </ul>
     </nav>
+
+
+
     <!-- Header-->
     <header class="masthead d-flex align-items-center">
         <div class="container px-4 px-lg-5 text-center">
@@ -291,7 +316,7 @@
                     <a class="social-link rounded-circle text-white " href="#! "><i class="icon-social-github "></i></a>
                 </li>
             </ul>
-            <p class="text-muted small mb-0 " style="color: white ">Copyright &copy; Your Website 2022</p>
+
         </div>
     </footer>
     <!-- Scroll to Top Button-->

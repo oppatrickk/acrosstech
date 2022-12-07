@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding-top: 150px;
+    justify-content:center;
+    align-items: center;
+    min-height: 40vh;
+    background-image: url(./img/aboutbg.png);
+    background-size: cover;
+    font-family: sans-serif;
+    text-align: justify;
+  }
+
+.par p{
+  color: #ffff;
+  font-size: 30px;
+  margin: 50px 30px 0px 50px;
+
+}
+
+.par h1{
+
+color: #ffff;
+  font-size: 60px;
+  margin: 40px 0px 0px 40px;
+  padding-top: 10px;
+  font-weight:bolder;
+
+}
+#pooter .pooter {
+  position: relative;
+  min-height: 0px;
+  background-color: ;
+
+}
+#pooter .pooter img{
+  height: 100px;
+  width: auto;
+}
+#pooter .pooter .tulo img{
+  padding-right: 1100px;
+}

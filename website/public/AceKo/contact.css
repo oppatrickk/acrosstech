@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding-top: 150px;
+    justify-content:center;
+    align-items: center;
+    min-height: 40vh;
+    background-image: url(./img/contact.png);
+    background-size: cover;
+    font-family: sans-serif;
+    text-align: justify;
+  }
+
+.cont h3{
+  color: #ffff;
+  font-size: 50px;
+  margin: 40px 20px 0px 40px;
+
+}
+.cont h2{
+  color: #274E5D;
+  font-size: 60px;
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+.how p{
+  color: #E59B54;
+  font-size: 50px;
+  font-weight: bolder;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.info p{
+   color: #274E5D;
+  font-size: 31px;
+  font-weight: bolder;
+  margin-left: 50px;
+  margin-right: 600px;
+  margin-top: 30px;
+  
+} 
+.add p{
+  color: #274E5D;
+  font-size: 30px;
+  margin-right: 700px;
+  white-space: 40px;
+  font-style: italic;
+  font-weight: lighter;
+}
+#looter .looter {
+  position: relative;
+  min-height: 0px;
+  background-color: ;
+  padding-top: 50px;
+
+}
+#looter .looter img{
+  height: 100px;
+  width: auto;
+}
+#looter .looter .pito img{
+  padding-right: 1100px;
+}

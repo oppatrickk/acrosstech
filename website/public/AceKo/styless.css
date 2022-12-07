@@ -1,0 +1,129 @@
+body{
+	background-image: url(./img/BG.gif);
+	background-color: #2A84A6;
+	background-size: cover;
+	background-position: top center;
+	position: relative;
+	z-index: 1;
+}
+.tri h1{
+
+	font-size: 90px;
+	font-family: 'Helvetica', sans-serif;
+	color: white;
+	text-align: center;
+	margin-top: 20px;
+	text-shadow: 2px 2px 4px #000000;
+
+}
+.cho h2{
+
+	font-size: 30px;
+	font-style: italic;
+	font-family: 'Helvetica', sans-serif;
+	color: white;
+	text-align: center;
+	margin-top: 100px;
+	text-shadow: 2px 2px 4px #000000;
+
+/* BOT ICONS below */	
+}
+#container { 
+	width: 80%; 
+	margin: auto; 
+	background-color: grey; 
+	padding: 30px; }
+.row { 
+	height: 200px;
+	 margin-bottom: 100px; 
+	 position: relative; }
+.row div { 
+	height: 120%; }
+
+.column-2 { 
+	width: 48%; }
+.column-3 { 
+	width: 30%; }
+.left { 
+	float: left; 
+	background-image: url(./img/yana.png); 
+	background-repeat: no-repeat;
+	background-size: 200px; 
+	background-position: center; }
+
+.center { 
+	float: left; 
+	margin: 0 5%; 
+	background-image: url(./img/aceko.png); 
+	background-repeat: no-repeat;
+	background-size: 100px; 
+	background-size: contain;
+	background-position: center;  }
+
+.right { 
+	float: right;
+	background-image: url(./img/hans.png); 
+	background-repeat: no-repeat;
+	background-size: 100px; 
+	background-size: contain;
+	background-position: center;	
+}
+
+
+/* NAV BAR */
+
+.topnav {
+    overflow: hidden;
+    font-family: 'Arial', sans-serif;
+    
+}
+
+.topnav a {
+  float: right;
+  margin-right: 100px;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+/* FOOTER BELOW */
+.footer{
+
+margin:0;
+padding:0;
+
+}
+.bul{
+float:left;
+}
+
+.bulogo{
+width:6vw;
+height:11vh;
+}
+.buc{
+float:right;
+}
+
+.bucslogo{
+width:7vw;
+height:12vh;
+}
+.yana p{
+	color: white;
+}
+
